@@ -1,6 +1,6 @@
 {
   "name": "my-plugin-satons",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "my plugin",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
